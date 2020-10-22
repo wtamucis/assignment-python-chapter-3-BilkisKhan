@@ -1,5 +1,5 @@
 # Follow the assignment instructions to code an app that
-# will tell a user their birthstone .
+# will tell a user their birthstone.
 user_input = input('Enter the number of the month you were born: ')
 month = int(user_input)
 # month = 4
